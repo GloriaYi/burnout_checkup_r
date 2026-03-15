@@ -1,1 +1,25 @@
-# burnout_checkup_r
+# AI Usage & Burnout Checkup (R)
+
+This is an individual Shiny for R implementation of our group dashboard project.
+
+## Features
+
+-   Filter employees by job role
+-   View average burnout risk score
+-   View burnout risk by job role
+
+## Install packages
+
+### Run the following in R:
+
+``` r
+install.packages(c("shiny", "bslib", "tidyverse", "rsconnect"))
+```
+
+### Run locally
+
+Open app.R in RStudio and click Run App, or run:
+
+``` bash
+shiny::runApp()
+```
