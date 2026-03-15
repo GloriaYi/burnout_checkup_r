@@ -8,6 +8,10 @@ This is an individual Shiny for R implementation of our group dashboard project.
 -   View average burnout risk score
 -   View burnout risk by job role
 
+## **Live Application**
+
+main deployment: <https://019cef00-30c4-fc19-eaef-1e76b001639b.share.connect.posit.cloud/>
+
 ## Install packages
 
 ### Run the following in R:
